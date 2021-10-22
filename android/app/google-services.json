@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238252471880",
+    "project_id": "flutter-code-magic-prep",
+    "storage_bucket": "flutter-code-magic-prep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238252471880:android:ecd145f1a862082a2e0a7d",
+        "android_client_info": {
+          "package_name": "dev.kelvinforteta.flutter_code_magic_prep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238252471880-d8l3mgdr54f5vfa0ng1s21c2a1mgglvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG6cuj0Gki3EqnJ8q_D-b6j-2eYef3XQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238252471880-d8l3mgdr54f5vfa0ng1s21c2a1mgglvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
